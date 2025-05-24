@@ -3,4 +3,4 @@ AI-Illuminati is an intelligent, conversational chatbot designed to deliver enga
 
 
 
-Developed by Simar Kaur, Aditya Kumar Saini 
+Developed by Simar Kaur amd  Aditya Kumar Saini 
